@@ -1,7 +1,8 @@
-# -*- coding:utf-8 -*- 
+﻿# -*- coding:utf-8 -*- 
 __author__ = 'Dragonfly'
 """
 如下为credit.data.csv文件的训练信息
+add it in 0609
 iter1 : train loss=0.371342
 iter2 : train loss=0.238326
 iter3 : train loss=0.163624
